@@ -1,0 +1,4 @@
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\obj\Debug\net7.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfoInputs.cache
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfo.cs
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\obj\Debug\net7.0\Task_1.csproj.CoreCompileInputs.cache
