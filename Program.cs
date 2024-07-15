@@ -47,3 +47,4 @@ Array.Copy(resultArray, finalResult, resultIndex);
         }
         Console.WriteLine("]");
     }
+    
