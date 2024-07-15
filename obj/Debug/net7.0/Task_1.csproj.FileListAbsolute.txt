@@ -2,3 +2,13 @@ D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_
 D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfoInputs.cache
 D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\obj\Debug\net7.0\Task_1.AssemblyInfo.cs
 D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\obj\Debug\net7.0\Task_1.csproj.CoreCompileInputs.cache
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\bin\Debug\net7.0\Task_1.exe
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\bin\Debug\net7.0\Task_1.deps.json
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\bin\Debug\net7.0\Task_1.runtimeconfig.json
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\bin\Debug\net7.0\Task_1.dll
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\bin\Debug\net7.0\Task_1.pdb
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\obj\Debug\net7.0\Task_1.dll
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\obj\Debug\net7.0\refint\Task_1.dll
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\obj\Debug\net7.0\Task_1.pdb
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\obj\Debug\net7.0\Task_1.genruntimeconfig.cache
+D:\GB\5951\Introduction to programming languages\Seminars\Final_work_GeekBrains_1\Task_1\obj\Debug\net7.0\ref\Task_1.dll
